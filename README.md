@@ -14,6 +14,24 @@ Why do we need Brute Forcers?
 
 ============================================
 
+What does the ROBLOX brute forcer side do
+- It simply brute forces a roblox account.
+
+============================================
+
+What does the discord side do?
+- It extracts the token of the discord user. Due to password issues. (Again for educational purposes only.)
+
+============================================
+
+How do i log in using a discord token?
+- Go to the discord login page
+- Install this extension https://chrome.google.com/webstore/detail/discord-token-login/ealjoeebhfijfimofmecjcjcigmadcai
+- Paste the user's token.
+- click login.
+
+==========================================
+
 I Do not condone or support any malicious action with this program.
 
 Made by xplist.
